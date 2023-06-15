@@ -1,0 +1,498 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms GSheetConnector\n"
+"POT-Creation-Date: 2022-01-04 17:41+0530\n"
+"PO-Revision-Date: 2022-01-04 17:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: helpdesk@gsheetconnector.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+
+#: gsheetconnector-wpforms.php:185
+msgid "Google Sheet"
+msgstr "Google Sheet"
+
+#: gsheetconnector-wpforms.php:202
+msgid "GSheetConnector WPForms"
+msgstr "GSheetConnector WPForms"
+
+#: gsheetconnector-wpforms.php:297
+msgid "Settings"
+msgstr "Settings"
+
+#: gsheetconnector-wpforms.php:298
+msgid "Upgrade to Pro"
+msgstr "Upgrade to Pro"
+
+#: includes/class-wpform-utility.php:78
+msgid "There's something wrong with your code..."
+msgstr "There's something wrong with your code..."
+
+#: includes/class-wpforms-integration.php:72
+msgid "Google Sheet Settings"
+msgstr "Google Sheet Settings"
+
+#: includes/class-wpforms-integration.php:77
+msgid "Google Sheet Name"
+msgstr "Google Sheet Name"
+
+#: includes/class-wpforms-integration.php:80
+msgid ""
+"Go to your google account and click on\"Google apps\" icon and than click "
+"\"Sheets\". Select the name of the appropriate sheet you want to link your "
+"contact form or create new sheet."
+msgstr ""
+"Go to your google account and click on\"Google apps\" icon and than click "
+"\"Sheets\". Select the name of the appropriate sheet you want to link your "
+"contact form or create new sheet."
+
+#: includes/class-wpforms-integration.php:83
+msgid "Google Sheet Id"
+msgstr "Google Sheet Id"
+
+#: includes/class-wpforms-integration.php:86
+msgid "you can get sheet id from your sheet URL"
+msgstr "you can get sheet id from your sheet URL"
+
+#: includes/class-wpforms-integration.php:89
+msgid "Google Sheet Tab Name"
+msgstr "Google Sheet Tab Name"
+
+#: includes/class-wpforms-integration.php:92
+msgid ""
+"Open your Google Sheet with which you want to link your contact form . You "
+"will notice a tab names at bottom of the screen. Copy the tab name where you "
+"want to have an entry of contact form."
+msgstr ""
+"Open your Google Sheet with which you want to link your contact form . You "
+"will notice a tab names at bottom of the screen. Copy the tab name where you "
+"want to have an entry of contact form."
+
+#: includes/class-wpforms-integration.php:95
+msgid "Google Tab Id"
+msgstr "Google Tab Id"
+
+#: includes/class-wpforms-integration.php:98
+msgid "you can get tab id from your sheet URL"
+msgstr "you can get tab id from your sheet URL"
+
+#: includes/class-wpforms-integration.php:122
+#: includes/pages/wpforms-integration-demo-info.php:29
+msgid "Click Here Demo"
+msgstr "Click Here Demo"
+
+#: includes/class-wpforms-integration.php:125
+#: includes/pages/wpforms-integration-demo-info.php:32
+msgid "Sheet URL (Click Here to view Sheet with submitted data.)"
+msgstr "Sheet URL (Click Here to view Sheet with submitted data.)"
+
+#: includes/class-wpforms-integration.php:161
+#: includes/pages/wpforms-integration-demo-info.php:68
+msgid "Buy Now - $29.00"
+msgstr "Buy Now - $29.00"
+
+#: includes/class-wpforms-integration.php:220
+msgid "WPForms - Google Sheet Integration"
+msgstr "WPForms - Google Sheet Integration"
+
+#: includes/class-wpforms-integration.php:222
+msgid ""
+"Click \"Get code\" to retrieve your code from Google Drive to allow us to "
+"access your spreadsheets. And paste the code in the below textbox. "
+msgstr ""
+"Click \"Get code\" to retrieve your code from Google Drive to allow us to "
+"access your spreadsheets. And paste the code in the below textbox. "
+
+#: includes/class-wpforms-integration.php:224
+msgid "Google Access Code"
+msgstr "Google Access Code"
+
+#: includes/class-wpforms-integration.php:227
+msgid "Currently Active"
+msgstr "Currently Active"
+
+#: includes/class-wpforms-integration.php:228
+msgid "Deactivate"
+msgstr "Deactivate"
+
+#: includes/class-wpforms-integration.php:229
+msgid ""
+"On deactivation, all your data saved with authentication will be removed and "
+"you need to reauthenticate with your google account and configure sheet name "
+"and tab."
+msgstr ""
+"On deactivation, all your data saved with authentication will be removed and "
+"you need to reauthenticate with your google account and configure sheet name "
+"and tab."
+
+#: includes/class-wpforms-integration.php:231
+msgid "Enter Code"
+msgstr "Enter Code"
+
+#: includes/class-wpforms-integration.php:232
+msgid "Get Code"
+msgstr "Get Code"
+
+#: includes/class-wpforms-integration.php:240
+#, php-format
+msgid "Connected email account: %s"
+msgstr "Connected email account: %s"
+
+#: includes/class-wpforms-integration.php:242
+msgid ""
+"Something went wrong ! Your Auth Code may be wrong or expired. Please "
+"Deactivate AUTH and Re-Authenticate again. "
+msgstr ""
+"Something went wrong ! Your Auth Code may be wrong or expired. Please "
+"Deactivate AUTH and Re-Authenticate again. "
+
+#: includes/class-wpforms-integration.php:254
+msgid "Debug Log ->"
+msgstr "Debug Log ->"
+
+#: includes/class-wpforms-integration.php:255
+msgid "View"
+msgstr "View"
+
+#: includes/class-wpforms-integration.php:256
+msgid "Clear"
+msgstr "Clear"
+
+#: includes/class-wpforms-integration.php:278
+#, fuzzy
+#| msgid ""
+#| "Did GSheetConnector WPForms help you out ? Please leave a 5-star review. "
+#| "Thank you!"
+msgid ""
+"Did WPForms GSheetConnector help you out ? Please leave a 5-star review. "
+"Thank you!"
+msgstr ""
+"Did GSheetConnector WPForms help you out ? Please leave a 5-star review. "
+"Thank you!"
+
+#: includes/class-wpforms-integration.php:282
+msgid "Need a helping hand ?"
+msgstr "Need a helping hand ?"
+
+#: includes/class-wpforms-integration.php:283
+msgid "Please ask for help on "
+msgstr "Please ask for help on "
+
+#: includes/class-wpforms-integration.php:283
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#: includes/class-wpforms-integration.php:283
+msgid " and "
+msgstr " and "
+
+#: includes/class-wpforms-integration.php:283
+msgid "Email. "
+msgstr "Email. "
+
+#: includes/class-wpforms-integration.php:283
+msgid ""
+"Do provide us detailed information about the issue along with wordpress "
+"version. "
+msgstr ""
+"Do provide us detailed information about the issue along with wordpress "
+"version. "
+
+#: includes/class-wpforms-integration.php:300
+#: includes/class-wpforms-integration.php:304
+msgid "Select Form"
+msgstr "Select Form"
+
+#: includes/class-wpforms-integration.php:317
+msgid "WPForms - Google Sheet Settings"
+msgstr "WPForms - Google Sheet Settings"
+
+#: includes/pages/wpform-dashboard-widget.php:20
+msgid "Wpforms connected with Google Sheet"
+msgstr "Wpforms connected with Google Sheet"
+
+#: includes/pages/wpform-dashboard-widget.php:34
+#: includes/pages/wpform-dashboard-widget.php:40
+msgid "No Wpforms are connected with google sheet."
+msgstr "No Wpforms are connected with google sheet."
+
+#: includes/pages/wpforms-gs-integration-support.php:11
+msgid "Submit A Ticket"
+msgstr "Submit A Ticket"
+
+#: includes/pages/wpforms-gs-integration-support.php:12
+msgid ""
+"We offer excellent support through our advanced ticket system. Make sure to "
+"register your purchase first to access our support services and other "
+"resources."
+msgstr ""
+"We offer excellent support through our advanced ticket system. Make sure to "
+"register your purchase first to access our support services and other "
+"resources."
+
+#: includes/pages/wpforms-gs-integration-support.php:13
+msgid "Submit a ticket"
+msgstr "Submit a ticket"
+
+#: includes/pages/wpforms-gs-integration-support.php:14
+#: includes/pages/wpforms-gs-integration-support.php:16
+msgid "Documentation"
+msgstr "Documentation"
+
+#: includes/pages/wpforms-gs-integration-support.php:15
+msgid ""
+"This is the place to go to reference different aspects of the theme. Our "
+"online documentaiton is an incredible resource for learning the ins and outs."
+msgstr ""
+"This is the place to go to reference different aspects of the theme. Our "
+"online documentaiton is an incredible resource for learning the ins and outs."
+
+#: includes/pages/wpforms-gs-settings.php:18
+msgid "Integration"
+msgstr "Integration"
+
+#: includes/pages/wpforms-gs-settings.php:19
+msgid "GoogleSheet Form Settings"
+msgstr "GoogleSheet Form Settings"
+
+#: includes/pages/wpforms-gs-settings.php:20
+msgid "FAQ"
+msgstr "FAQ"
+
+#: includes/pages/wpforms-gs-settings.php:21
+msgid "Demos"
+msgstr "Demos"
+
+#: includes/pages/wpforms-gs-settings.php:22
+msgid "Support"
+msgstr "Support"
+
+#: includes/pages/wpforms-gs-settings.php:23
+msgid "System Status"
+msgstr "System Status"
+
+#: includes/pages/wpforms-integrate-system-info.php:9
+msgid ""
+"To copy the system info, click below then press Ctrl + C (PC) or Cmd + C "
+"(Mac)."
+msgstr ""
+"To copy the system info, click below then press Ctrl + C (PC) or Cmd + C "
+"(Mac)."
+
+#: includes/pages/wpforms-integration-faq.php:5
+msgid "How to configure your Google Spreadsheet with WPForms plugin?"
+msgstr "How to configure your Google Spreadsheet with WPForms plugin?"
+
+#: includes/pages/wpforms-integration-faq.php:8
+msgid "Go to the WPForms Menu and click on  Googlesheet ."
+msgstr "Go to the WPForms Menu and click on  Googlesheet ."
+
+#: includes/pages/wpforms-integration-faq.php:9
+msgid "Then click on the Google Sheet tab."
+msgstr "Then click on the Google Sheet tab."
+
+#: includes/pages/wpforms-integration-faq.php:10
+msgid "Then go to Form Settings Tab."
+msgstr "Then go to Form Settings Tab."
+
+#: includes/pages/wpforms-integration-faq.php:11
+msgid "Then Select the form which you want to connect with your spreadsheet."
+msgstr "Then Select the form which you want to connect with your spreadsheet."
+
+#: includes/pages/wpforms-integration-faq.php:15
+msgid ""
+"Enter Google Sheet name and Google Sheet tab name inside the Google Sheet "
+"tab.."
+msgstr ""
+"Enter Google Sheet name and Google Sheet tab name inside the Google Sheet "
+"tab.."
+
+#: includes/pages/wpforms-integration-faq.php:23
+msgid "Why I am Getting Error 500 After Installing Plugin."
+msgstr "Why I am Getting Error 500 After Installing Plugin."
+
+#: includes/pages/wpforms-integration-faq.php:25
+msgid "Following are few of the points which will help to debug the issue."
+msgstr "Following are few of the points which will help to debug the issue."
+
+#: includes/pages/wpforms-integration-faq.php:26
+msgid ""
+"1) Enable debug by adding&nbsp;following in your wp-config.php file before /"
+"* That’s all, stop editing! Happy blogging."
+msgstr ""
+"1) Enable debug by adding&nbsp;following in your wp-config.php file before /"
+"* That’s all, stop editing! Happy blogging."
+
+#: includes/pages/wpforms-integration-faq.php:27
+msgid ""
+"define(‘WP_DEBUG’, true); define(‘WP_DEBUG_LOG’, true); "
+"define(‘SCRIPT_DEBUG’, true); define(‘SAVEQUERIES’, true);"
+msgstr ""
+"define(‘WP_DEBUG’, true); define(‘WP_DEBUG_LOG’, true); "
+"define(‘SCRIPT_DEBUG’, true); define(‘SAVEQUERIES’, true);"
+
+#: includes/pages/wpforms-integration-faq.php:28
+msgid ""
+"And then try to activate the plugin again. This will create a debug.log "
+"under wp-content folder.&nbsp;Check for WPForms google sheet connector error "
+"if so send us the file at support@westerndeal.com"
+msgstr ""
+"And then try to activate the plugin again. This will create a debug.log "
+"under wp-content folder.&nbsp;Check for WPForms google sheet connector error "
+"if so send us the file at support@westerndeal.com"
+
+#: includes/pages/wpforms-integration-faq.php:29
+msgid ""
+"2) Check the log that is created by WPForms google sheet. For that click "
+"“View” from goggle sheet integration page. Let us know if there is any error "
+"we will assist you."
+msgstr ""
+"2) Check the log that is created by WPForms google sheet. For that click "
+"“View” from goggle sheet integration page. Let us know if there is any error "
+"we will assist you."
+
+#: includes/pages/wpforms-integration-faq.php:35
+msgid "How do I get the Google Access Code required in step 3 of Installation?"
+msgstr ""
+"How do I get the Google Access Code required in step 3 of Installation?"
+
+#: includes/pages/wpforms-integration-faq.php:38
+msgid "On the&nbsp;<code>Admin Panel &gt; WPForms &gt; Google Sheets.</code>"
+msgstr "On the&nbsp;<code>Admin Panel &gt; WPForms &gt; Google Sheets.</code>"
+
+#: includes/pages/wpforms-integration-faq.php:39
+msgid "Go to “Integration” tab and click on \"Get Code\" button."
+msgstr "Go to “Integration” tab and click on \"Get Code\" button."
+
+#: includes/pages/wpforms-integration-faq.php:40
+msgid ""
+"In a popup Google will ask you to authorize the plugin to connect to your "
+"Google Sheets. Authorize it – you may have to log in to your Google account "
+"if you aren’t already logged in."
+msgstr ""
+"In a popup Google will ask you to authorize the plugin to connect to your "
+"Google Sheets. Authorize it – you may have to log in to your Google account "
+"if you aren’t already logged in."
+
+#: includes/pages/wpforms-integration-faq.php:41
+msgid "On the next screen, you should receive the Access Code. Copy it."
+msgstr "On the next screen, you should receive the Access Code. Copy it."
+
+#: includes/pages/wpforms-integration-faq.php:42
+msgid "Now you can paste this code back in the Google Access Code."
+msgstr "Now you can paste this code back in the Google Access Code."
+
+#: includes/pages/wpforms-integration-faq.php:48
+msgid "Submitted Value is not showing in Googlesheet."
+msgstr "Submitted Value is not showing in Googlesheet."
+
+#: includes/pages/wpforms-integration-faq.php:52
+#: includes/pages/wpforms-integration-faq.php:67
+msgid ""
+"Sometimes it can take a while of spinning before it goes through. But if the "
+"entries never show up in your Sheet then one of these things might be the "
+"reason:"
+msgstr ""
+"Sometimes it can take a while of spinning before it goes through. But if the "
+"entries never show up in your Sheet then one of these things might be the "
+"reason:"
+
+#: includes/pages/wpforms-integration-faq.php:53
+#: includes/pages/wpforms-integration-faq.php:69
+msgid "Wrong access code ( Check debug log )"
+msgstr "Wrong access code ( Check debug log )"
+
+#: includes/pages/wpforms-integration-faq.php:54
+#: includes/pages/wpforms-integration-faq.php:70
+msgid "Wrong Sheet name or tab name"
+msgstr "Wrong Sheet name or tab name"
+
+#: includes/pages/wpforms-integration-faq.php:55
+msgid ""
+"Wrong Column name ( Column names in the WPForms. It cannot have underscore, "
+"space or any special characters. )"
+msgstr ""
+"Wrong Column name ( Column names in the WPForms. It cannot have underscore, "
+"space or any special characters. )"
+
+#: includes/pages/wpforms-integration-faq.php:57
+#: includes/pages/wpforms-integration-faq.php:73
+msgid ""
+"Please double-check those items and hopefully getting them right will fix "
+"the issue."
+msgstr ""
+"Please double-check those items and hopefully getting them right will fix "
+"the issue."
+
+#: includes/pages/wpforms-integration-faq.php:65
+msgid "Why I am not showing WPForms Values(submitted data) in My Googlesheet?"
+msgstr "Why I am not showing WPForms Values(submitted data) in My Googlesheet?"
+
+#: includes/pages/wpforms-integration-faq.php:71
+msgid ""
+"Wrong Column name mapping ( Column names in the WPForms. It cannot have "
+"underscore, space or any special characters )"
+msgstr ""
+"Wrong Column name mapping ( Column names in the WPForms. It cannot have "
+"underscore, space or any special characters )"
+
+#. Plugin Name of the plugin/theme
+msgid "WPForms GSheetConnector"
+msgstr "WPForms GSheetConnector"
+
+#. Description of the plugin/theme
+msgid "Send your WPForms data to your Google Sheets spreadsheet."
+msgstr "Send your WPForms data to your Google Sheets spreadsheet."
+
+#. Author of the plugin/theme
+msgid "GSheetConnector"
+msgstr "GSheetConnector"
+
+#. Author URI of the plugin/theme
+msgid "https://www.gsheetconnector.com/"
+msgstr ""
+
+#~ msgid "Where do i get Google Sheet Name?"
+#~ msgstr "Where do i get Google Sheet Name?"
+
+#~ msgid "Google Sheet Id?"
+#~ msgstr "Google Sheet Id?"
+
+#~ msgid "Where do i get Sheet Tab Name?"
+#~ msgstr "Where do i get Sheet Tab Name?"
+
+#~ msgid "Google Tab Id?"
+#~ msgstr "Google Tab Id?"
+
+#~ msgid "WPForms Pro Demo"
+#~ msgstr "WPForms Pro Demo"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "UserName"
+#~ msgstr "UserName"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Sheet URL"
+#~ msgstr "Sheet URL"
+
+#~ msgid "Demo URL"
+#~ msgstr "Demo URL"
+
+#~ msgid "Google Sheet Connector Wpforms"
+#~ msgstr "Google Sheet Connector Wpforms"
+
+#~ msgid "WesternDeal"
+#~ msgstr "WesternDeal"
+
+#~ msgid "Read WPForm Gsheet Connector user guide"
+#~ msgstr "Read WPForm Gsheet Connector user guide"
